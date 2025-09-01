@@ -1,0 +1,30 @@
+#search{
+    float: right;
+    margin: 2px;
+ 
+
+
+}
+
+#icon{
+    margin: 10px;
+   
+
+   
+}
+
+.nav-box{
+    border: 1px solid black;
+    height: 70px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    padding-right: 10px;
+    background-color: rgba(81, 0, 255, 0.307);
+   
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}

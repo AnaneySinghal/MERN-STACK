@@ -1,0 +1,24 @@
+.circle{
+    border: 2px solid black;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin:20px;
+  
+}
+
+#box{
+    width: 300px;
+    height: 600px;
+    margin: 20px;
+    box-sizing: border-box;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+#image{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+  
+}
