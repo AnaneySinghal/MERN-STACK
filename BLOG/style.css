@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+#navbar{
+    position: static;
+}
+
+#image{
+    height: 60px;
+    width: 60px;
+
+}
+
+.items{
+    display: flex;
+}
+li{
+
+    display: inline-block;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-size: 19px;
+    margin-right: 7px;
+    margin-left:3px;
+}
+.search{
+  j
+    
+}
