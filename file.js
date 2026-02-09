@@ -37,17 +37,17 @@
 
 
 
-// const {add ,multi}=require("./utils");
+const {add ,multi}=require("./utils");
 
-// const addition=add(1,7);
-// console.log("addition:",addition);
+const addition=add(1,7);
+console.log("addition:",addition);
 
-// const multiplication =multi(3,2);
-// console.log("multiplication",multiplication);
+const multiplication =multi(3,2);
+console.log("multiplication",multiplication);
 
-// let obj={
-//     key: "add"
-// };
+let obj={
+    key: "add"
+};
 
 const{count,names}=require()
 const getfile2Info =()=>{
@@ -57,3 +57,4 @@ const getfile2Info =()=>{
 };
 
 module.exports=getfile2Info;
+
