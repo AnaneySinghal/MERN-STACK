@@ -72,3 +72,9 @@
 // /api/path.html -> Path Param
 // ?param1=sample&param2=sample-> query param
 // #pathdelimiter -> hash
+
+
+// https://
+// www.flipkart.com/
+// vivo-t4-lite-5g-charger-box-titanium-gold-64-gb/p
+// /itm9886d6e522c4b?pid=MOBHJ8QD9JTVTUEX&lid=LSTMOBHJ8QD9JTVTUEX4XVCAT&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_2&otracker=AS_Query_TrendingAutoSuggest_1_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_1_0_na_na_na&fm=search-autosuggest&iid=12215b55-74a5-42ea-bfb8-82abf1433a51.MOBHJ8QD9JTVTUEX.SEARCH&ppt=sp&ppn=sp&qH=eb4af0bf07c16429&ov_redirect=true
