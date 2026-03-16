@@ -5,3 +5,13 @@ exports.getUsers =(req, res)=>{
         users,
     });
 };
+
+
+exports.addUsers =(req,res)=>{
+    const students=req.body;
+    console.log("students",students);
+    res.json({
+        message: "student added",
+        students,
+    });
+};
